@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/accii.iml" filepath="$PROJECT_DIR$/accii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/accii_android.iml" filepath="$PROJECT_DIR$/android/accii_android.iml" />
+    </modules>
+  </component>
+</project>
